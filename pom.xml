@@ -4,7 +4,7 @@
 
     <groupId>dummy-org-module3</groupId>
     <artifactId>dummy-module3</artifactId>
-    <version>1.0.3-SNAPSHOT</version>
+    <version>1.0.3</version>
 
     <properties>
         <dummy.version>${project.version}</dummy.version>
@@ -27,7 +27,7 @@
     <scm>
         <developerConnection>scm:git:ssh://git@github.com/dummy-org-00/dummy-module3.git</developerConnection>
         <url>https://github.com/dummy-org-00/dummy-module3</url>
-        <tag>HEAD</tag>
+        <tag>1.0.3</tag>
     </scm>
 
     <licenses>
